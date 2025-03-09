@@ -12,7 +12,7 @@ This is my first Github project. This Repo contains a python based project named
 
 ## Authors
 
-- [@chanakyak09](https://github.com/chanakyak09/web-projects/tree/main/TodoList)
+- [@chanakyak09]
 
 
 ## 🛠 Skills
